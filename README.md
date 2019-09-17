@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200" height="200" src="https://image.flaticon.com/icons/svg/993/993723.svg" alt="Awesome">
+	<img width="150" height="150" src="https://image.flaticon.com/icons/svg/993/993723.svg" alt="Awesome">
 	<br>
 </div>
 
