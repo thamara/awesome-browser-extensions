@@ -1,5 +1,11 @@
-# Awesome Browser Extensios
-A curated list of browser's extensios.
+<div align="center">
+    <table style="margin-left: auto; margin-right: auto;" border="0"> <tbody> <tr>
+        <td><img src="https://image.flaticon.com/icons/svg/993/993723.svg" alt="" width="200" height="200" /></td>
+        <td><h1>&nbsp;Awesome Browser Extensions</h1></td>
+        </tr> </tbody> </table>
+</div>
+
+A curated list of browser's extensions.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
