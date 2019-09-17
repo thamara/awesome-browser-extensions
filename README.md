@@ -1,10 +1,14 @@
-# awesome-extensions
+# Awesome Browser Extensios
 An awesome curated list of browser's extensios
+
+---
 
 ## Contents
 - [Knowledge](#Knowledge)
 - [Tab management](#Tab-management)
 - [Utilities](#Utilities)
+
+---
 
 ## Knowledge
 - [[Chrome/Firefox] 30 Seconds of Knowledge](https://30secondsofknowledge.com/): Get a random code snippet on each 'new tab', from different coding categories, that you can read and understand in 30 seconds or less.
