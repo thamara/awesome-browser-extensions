@@ -1,9 +1,10 @@
 <div align="center">
-    <table style="margin-left: auto; margin-right: auto;" border="0"> <tbody> <tr>
-        <td><img src="https://image.flaticon.com/icons/svg/993/993723.svg" alt="" width="200" height="200" /></td>
-        <td><h1>&nbsp;Awesome Browser Extensions</h1></td>
-        </tr> </tbody> </table>
+	<img width="200" height="200" src="https://image.flaticon.com/icons/svg/993/993723.svg" alt="Awesome">
+	<br>
 </div>
+
+
+<h1 align="center">Awesome Browser Extensions</h1>
 
 A curated list of browser's extensions.
 
