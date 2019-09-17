@@ -29,6 +29,6 @@ A curated list of browser's extensions.
 
 ## Utilities
 - [[Chrome] Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn?hl=en&gl=US): Highlight regex matches on the web page dynamically as you type.
-- [[Chrome] FIO - Figure it out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke): Beautifully displays time zones you chose on every 'new tab', allowing for quick checks, and easy time zone math
+- [[Chrome] FIO - Figure it out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke): Beautifully displays time zones you chose on every 'new tab', allowing for quick checks, and easy time zone math.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all spotify links in your desktop app instead of the web player.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
