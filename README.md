@@ -32,3 +32,6 @@ A curated list of browser's extensions.
 - [[Chrome] FIO - Figure it out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke): Beautifully displays time zones you chose on every 'new tab', allowing for quick checks, and easy time zone math.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all spotify links in your desktop app instead of the web player.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
+
+# Credits
+Icon made by [monkik](https://www.flaticon.com/authors/monkik) from [www.flaticon.com](https://www.flaticon.com).
