@@ -1,5 +1,7 @@
 # Awesome Browser Extensios
-An awesome curated list of browser's extensios
+An awesome curated list of browser's extensios.
+
+*Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
 ---
 
