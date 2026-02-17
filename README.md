@@ -38,6 +38,7 @@ A curated list of browser's extensions.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all Spotify links in your desktop app instead of the web player.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
 - [[Chrome] Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts
+- [[Chrome/Firefox/Safari] Orange Cheeto](https://www.cheetodon.com): Replaces "Trump" with funny nicknames like "Mango Mussolini" on every website. Free, no tracking.
 
 # Credits
 Icon made by [monkik](https://www.flaticon.com/authors/monkik) from [www.flaticon.com](https://www.flaticon.com).
