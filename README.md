@@ -25,6 +25,7 @@ A curated list of browser's extensions.
 
 ## Tab management
 - [[Chrome] Clutter Free](https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf): Automatically detect and prevent duplicate tabs, offering quick tab search & switch.
+- [[Chrome] gTabs - AI Tab Organizer](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb): Organize Chrome tabs with AI — smart groups that learn your habits, 8 LLM providers (including local Ollama + Chrome AI), editable suggestions, one-click undo, scheduled re-org, pinned groups, and duplicate finder. [Open source](https://github.com/vaddisrinivas/gtabs).
 - [[Chrome] Sortify](https://chrome.google.com/webstore/detail/sortify/aehmpfeibpcclkbjjkclhncmjncpebef?ref=producthunt): Organize your browser tabs by site or time.
 - [[Chrome/Safari] Toast](https://dotoast.com/): Simple and lightweight extension that allows you to save all tabs in the open window. This way you can easily switch from project to project or between work and home tabs.
 
