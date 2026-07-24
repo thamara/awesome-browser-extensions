@@ -38,6 +38,7 @@ A curated list of browser's extensions.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all Spotify links in your desktop app instead of the web player.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
 - [[Chrome] Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts
+  - **[Chrome/Firefox] Spoof Me** ([Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)): Browser privacy extension for inspecting and modifying browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, and WebGL.
 
 # Credits
 Icon made by [monkik](https://www.flaticon.com/authors/monkik) from [www.flaticon.com](https://www.flaticon.com).
