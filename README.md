@@ -37,6 +37,7 @@ A curated list of browser's extensions.
 - [[Chrome] FIO - Figure it out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke): Beautifully displays time zones you chose on every 'new tab', allowing for quick checks, and easy time zone math.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all Spotify links in your desktop app instead of the web player.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
+- [[Firefox/Chrome] truediscount](https://addons.mozilla.org/en-US/firefox/addon/truediscount/): Checks whether an EU shop discount is real against the Omnibus 30-day lowest price. Local-only and open source.
 - [[Chrome] Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts
 
 # Credits
