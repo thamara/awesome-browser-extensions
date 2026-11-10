@@ -36,6 +36,7 @@ A curated list of browser's extensions.
 - [[Chrome] Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn?hl=en&gl=US): Highlight regex matches on the web page dynamically as you type.
 - [[Chrome] FIO - Figure it out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke): Beautifully displays time zones you chose on every 'new tab', allowing for quick checks, and easy time zone math.
 - [[Chrome] Magnetify](https://chrome.google.com/webstore/detail/magnetify/llopembjhlbkgfoldjldjlecjkggiieo): Open all Spotify links in your desktop app instead of the web player.
+- [[Firefox] ShrinkWatch EU](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/): Shows the price per kg or litre on EU grocery shops and warns when a pack shrinks for the same price.
 - [[Chrome/Firefox/Safari] Shut Up: Comment Blocker](https://rickyromero.com/shutup/): Hides comments from websites.
 - [[Chrome] Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts
 
